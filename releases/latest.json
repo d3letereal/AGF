@@ -6,6 +6,6 @@
   "admin": {
     "error1": true,
     "error2": false,
-    "errorMessage": "Server maintenance in progress."
+    "errorMessage": "Servers are down comeback later"
   }
 }
