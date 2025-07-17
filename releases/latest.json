@@ -4,7 +4,7 @@
   "stage": "beta",
   "createdAt": "2025-07-15T10:00:00Z",
   "admin": {
-    "error1": true,
+    "error1": false,
     "error2": false,
     "errorMessage": "Server maintenance in progress."
   }
